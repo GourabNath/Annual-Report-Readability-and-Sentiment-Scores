@@ -1,0 +1,87 @@
+,Year,Length,NPositive,NNegative,PPositive,PNegative,Polarity,Subjectivity,Bank,Report,Dictionary
+0,2011,,,,,,,,Dhanalakshmi,Director Report,Harvard-IV
+1,2012,900.0,178.0,59.0,0.1978,0.0656,0.5021,0.2633,Dhanalakshmi,Director Report,Harvard-IV
+2,2013,1132.0,259.0,72.0,0.2288,0.0636,0.565,0.2924,Dhanalakshmi,Director Report,Harvard-IV
+3,2014,1571.0,335.0,81.0,0.2132,0.0516,0.6106,0.2648,Dhanalakshmi,Director Report,Harvard-IV
+4,2015,1740.0,393.0,92.0,0.2259,0.0529,0.6206,0.2787,Dhanalakshmi,Director Report,Harvard-IV
+5,2018,2754.0,599.0,125.0,0.2175,0.0454,0.6547,0.2629,Dhanalakshmi,Director Report,Harvard-IV
+6,2019,2064.0,390.0,66.0,0.189,0.032,0.7105,0.2209,Dhanalakshmi,Director Report,Harvard-IV
+7,2020,2102.0,449.0,65.0,0.2136,0.0309,0.7471,0.2445,Dhanalakshmi,Director Report,Harvard-IV
+8,2021,2091.0,454.0,75.0,0.2171,0.0359,0.7164,0.253,Dhanalakshmi,Director Report,Harvard-IV
+0,2010,284.0,77.0,15.0,0.2711,0.0528,0.6739,0.3239,Dhanalakshmi,Auditor Report,Harvard-IV
+1,2011,,,,,,,,Dhanalakshmi,Auditor Report,Harvard-IV
+2,2012,344.0,84.0,20.0,0.2442,0.0581,0.6154,0.3023,Dhanalakshmi,Auditor Report,Harvard-IV
+3,2013,425.0,110.0,29.0,0.2588,0.0682,0.5827,0.3271,Dhanalakshmi,Auditor Report,Harvard-IV
+4,2014,534.0,125.0,31.0,0.2341,0.0581,0.6026,0.2921,Dhanalakshmi,Auditor Report,Harvard-IV
+5,2015,636.0,181.0,38.0,0.2846,0.0597,0.653,0.3443,Dhanalakshmi,Auditor Report,Harvard-IV
+6,2016,,,,,,,,Dhanalakshmi,Auditor Report,Harvard-IV
+7,2017,,,,,,,,Dhanalakshmi,Auditor Report,Harvard-IV
+8,2018,990.0,246.0,44.0,0.2485,0.0444,0.6966,0.2929,Dhanalakshmi,Auditor Report,Harvard-IV
+9,2019,1812.0,465.0,94.0,0.2566,0.0519,0.6637,0.3085,Dhanalakshmi,Auditor Report,Harvard-IV
+10,2020,1737.0,438.0,86.0,0.2522,0.0495,0.6718,0.3017,Dhanalakshmi,Auditor Report,Harvard-IV
+11,2021,2306.0,551.0,105.0,0.2389,0.0455,0.6799,0.2845,Dhanalakshmi,Auditor Report,Harvard-IV
+0,2010,306.0,85.0,14.0,0.2778,0.0458,0.7172,0.3235,Lakshmi Vilas,Auditor Report,Harvard-IV
+1,2011,302.0,83.0,14.0,0.2748,0.0464,0.7113,0.3212,Lakshmi Vilas,Auditor Report,Harvard-IV
+2,2012,,,,,,,,Lakshmi Vilas,Auditor Report,Harvard-IV
+3,2013,463.0,110.0,32.0,0.2376,0.0691,0.5493,0.3067,Lakshmi Vilas,Auditor Report,Harvard-IV
+4,2014,554.0,121.0,37.0,0.2184,0.0668,0.5316,0.2852,Lakshmi Vilas,Auditor Report,Harvard-IV
+5,2015,543.0,160.0,27.0,0.2947,0.0497,0.7112,0.3444,Lakshmi Vilas,Auditor Report,Harvard-IV
+6,2016,999.0,254.0,44.0,0.2543,0.044,0.7047,0.2983,Lakshmi Vilas,Auditor Report,Harvard-IV
+7,2017,1044.0,263.0,49.0,0.2519,0.0469,0.6859,0.2989,Lakshmi Vilas,Auditor Report,Harvard-IV
+8,2018,1074.0,274.0,50.0,0.2551,0.0466,0.6914,0.3017,Lakshmi Vilas,Auditor Report,Harvard-IV
+9,2019,2034.0,507.0,109.0,0.2493,0.0536,0.6461,0.3029,Lakshmi Vilas,Auditor Report,Harvard-IV
+10,2020,2668.0,596.0,158.0,0.2234,0.0592,0.5809,0.2826,Lakshmi Vilas,Auditor Report,Harvard-IV
+0,2010,1211.0,277.0,38.0,0.2287,0.0314,0.7587,0.2601,Lakshmi Vilas,Director Report,Harvard-IV
+1,2011,1756.0,427.0,77.0,0.2432,0.0438,0.6944,0.287,Lakshmi Vilas,Director Report,Harvard-IV
+2,2012,,,,,,,,Lakshmi Vilas,Director Report,Harvard-IV
+3,2013,1630.0,358.0,82.0,0.2196,0.0503,0.6273,0.2699,Lakshmi Vilas,Director Report,Harvard-IV
+4,2014,2476.0,487.0,163.0,0.1967,0.0658,0.4985,0.2625,Lakshmi Vilas,Director Report,Harvard-IV
+5,2015,3047.0,690.0,173.0,0.2265,0.0568,0.5991,0.2832,Lakshmi Vilas,Director Report,Harvard-IV
+6,2016,2864.0,658.0,130.0,0.2297,0.0454,0.6701,0.2751,Lakshmi Vilas,Director Report,Harvard-IV
+7,2017,4072.0,886.0,181.0,0.2176,0.0444,0.6607,0.262,Lakshmi Vilas,Director Report,Harvard-IV
+8,2018,4044.0,886.0,192.0,0.2191,0.0475,0.6438,0.2666,Lakshmi Vilas,Director Report,Harvard-IV
+9,2019,4353.0,952.0,166.0,0.2187,0.0381,0.703,0.2568,Lakshmi Vilas,Director Report,Harvard-IV
+10,2020,5460.0,1129.0,263.0,0.2068,0.0482,0.6221,0.2549,Lakshmi Vilas,Director Report,Harvard-IV
+0,2011,,,,,,,,Dhanalakshmi,Director Report,Loughran & McDonald
+1,2012,900.0,31.0,33.0,0.0344,0.0367,-0.0312,0.0711,Dhanalakshmi,Director Report,Loughran & McDonald
+2,2013,1132.0,65.0,42.0,0.0574,0.0371,0.215,0.0945,Dhanalakshmi,Director Report,Loughran & McDonald
+3,2014,1571.0,57.0,48.0,0.0363,0.0306,0.0857,0.0668,Dhanalakshmi,Director Report,Loughran & McDonald
+4,2015,1740.0,58.0,67.0,0.0333,0.0385,-0.072,0.0718,Dhanalakshmi,Director Report,Loughran & McDonald
+5,2018,2754.0,72.0,79.0,0.0261,0.0287,-0.0464,0.0548,Dhanalakshmi,Director Report,Loughran & McDonald
+6,2019,2064.0,45.0,65.0,0.0218,0.0315,-0.1818,0.0533,Dhanalakshmi,Director Report,Loughran & McDonald
+7,2020,2102.0,55.0,55.0,0.0262,0.0262,0.0,0.0523,Dhanalakshmi,Director Report,Loughran & McDonald
+8,2021,2091.0,52.0,59.0,0.0249,0.0282,-0.0631,0.0531,Dhanalakshmi,Director Report,Loughran & McDonald
+0,2010,284.0,12.0,9.0,0.0423,0.0317,0.1429,0.0739,Dhanalakshmi,Auditor Report,Loughran & McDonald
+1,2011,,,,,,,,Dhanalakshmi,Auditor Report,Loughran & McDonald
+2,2012,344.0,12.0,14.0,0.0349,0.0407,-0.0769,0.0756,Dhanalakshmi,Auditor Report,Loughran & McDonald
+3,2013,425.0,19.0,19.0,0.0447,0.0447,0.0,0.0894,Dhanalakshmi,Auditor Report,Loughran & McDonald
+4,2014,534.0,22.0,20.0,0.0412,0.0375,0.0476,0.0787,Dhanalakshmi,Auditor Report,Loughran & McDonald
+5,2015,636.0,24.0,32.0,0.0377,0.0503,-0.1429,0.0881,Dhanalakshmi,Auditor Report,Loughran & McDonald
+6,2016,,,,,,,,Dhanalakshmi,Auditor Report,Loughran & McDonald
+7,2017,,,,,,,,Dhanalakshmi,Auditor Report,Loughran & McDonald
+8,2018,990.0,35.0,44.0,0.0354,0.0444,-0.1139,0.0798,Dhanalakshmi,Auditor Report,Loughran & McDonald
+9,2019,1812.0,70.0,90.0,0.0386,0.0497,-0.125,0.0883,Dhanalakshmi,Auditor Report,Loughran & McDonald
+10,2020,1737.0,71.0,88.0,0.0409,0.0507,-0.1069,0.0915,Dhanalakshmi,Auditor Report,Loughran & McDonald
+11,2021,2306.0,74.0,97.0,0.0321,0.0421,-0.1345,0.0742,Dhanalakshmi,Auditor Report,Loughran & McDonald
+0,2010,306.0,14.0,10.0,0.0458,0.0327,0.1667,0.0784,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+1,2011,302.0,14.0,10.0,0.0464,0.0331,0.1667,0.0795,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+2,2012,,,,,,,,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+3,2013,463.0,18.0,19.0,0.0389,0.041,-0.027,0.0799,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+4,2014,554.0,21.0,22.0,0.0379,0.0397,-0.0233,0.0776,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+5,2015,543.0,23.0,28.0,0.0424,0.0516,-0.098,0.0939,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+6,2016,999.0,38.0,47.0,0.038,0.047,-0.1059,0.0851,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+7,2017,1044.0,41.0,51.0,0.0393,0.0489,-0.1087,0.0881,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+8,2018,1074.0,40.0,51.0,0.0372,0.0475,-0.1209,0.0847,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+9,2019,2034.0,70.0,105.0,0.0344,0.0516,-0.2,0.086,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+10,2020,2668.0,74.0,141.0,0.0277,0.0528,-0.3116,0.0806,Lakshmi Vilas,Auditor Report,Loughran & McDonald
+0,2010,1211.0,54.0,17.0,0.0446,0.014,0.5211,0.0586,Lakshmi Vilas,Director Report,Loughran & McDonald
+1,2011,1756.0,83.0,23.0,0.0473,0.0131,0.566,0.0604,Lakshmi Vilas,Director Report,Loughran & McDonald
+2,2012,,,,,,,,Lakshmi Vilas,Director Report,Loughran & McDonald
+3,2013,1630.0,67.0,35.0,0.0411,0.0215,0.3137,0.0626,Lakshmi Vilas,Director Report,Loughran & McDonald
+4,2014,2476.0,77.0,101.0,0.0311,0.0408,-0.1348,0.0719,Lakshmi Vilas,Director Report,Loughran & McDonald
+5,2015,3047.0,129.0,94.0,0.0423,0.0309,0.157,0.0732,Lakshmi Vilas,Director Report,Loughran & McDonald
+6,2016,2864.0,106.0,76.0,0.037,0.0265,0.1648,0.0635,Lakshmi Vilas,Director Report,Loughran & McDonald
+7,2017,4072.0,137.0,107.0,0.0336,0.0263,0.123,0.0599,Lakshmi Vilas,Director Report,Loughran & McDonald
+8,2018,4044.0,118.0,131.0,0.0292,0.0324,-0.0522,0.0616,Lakshmi Vilas,Director Report,Loughran & McDonald
+9,2019,4353.0,108.0,106.0,0.0248,0.0244,0.0093,0.0492,Lakshmi Vilas,Director Report,Loughran & McDonald
+10,2020,5460.0,112.0,194.0,0.0205,0.0355,-0.268,0.056,Lakshmi Vilas,Director Report,Loughran & McDonald

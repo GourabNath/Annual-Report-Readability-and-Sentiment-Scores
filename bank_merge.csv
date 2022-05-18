@@ -1,0 +1,44 @@
+,Year,Flesch-Kincaid,Gunning,SMOG,ARI,CLI,Linsear,DC,Standard,Bank,Report
+0,2011,,,,,,,,,Dhanalakshmi,Director Report
+1,2012,8.4,9.5,11.4,9.6,11.3,2.933333333333333,8.83,9th and 10th grade,Dhanalakshmi,Director Report
+2,2013,8.6,9.35,11.5,10.2,12.0,6.0,8.58,8th and 9th grade,Dhanalakshmi,Director Report
+3,2014,10.5,11.25,13.4,12.7,12.94,7.142857142857142,8.74,12th and 13th grade,Dhanalakshmi,Director Report
+4,2015,11.1,11.57,14.2,13.4,12.88,6.125,8.39,11th and 12th grade,Dhanalakshmi,Director Report
+5,2018,12.2,10.91,14.6,13.4,13.05,16.25,7.71,12th and 13th grade,Dhanalakshmi,Director Report
+6,2019,12.0,10.67,14.7,13.2,12.94,16.0,7.55,10th and 11th grade,Dhanalakshmi,Director Report
+7,2020,11.8,10.66,14.8,13.3,13.34,15.75,7.52,10th and 11th grade,Dhanalakshmi,Director Report
+8,2021,12.5,11.58,15.2,14.0,13.23,15.75,7.72,12th and 13th grade,Dhanalakshmi,Director Report
+0,2010,12.8,14.03,14.3,14.8,10.45,13.8,8.43,13th and 14th grade,Dhanalakshmi,Auditor Report
+1,2011,,,,,,,,,Dhanalakshmi,Auditor Report
+2,2012,12.9,13.71,14.1,14.7,10.28,17.25,8.12,13th and 14th grade,Dhanalakshmi,Auditor Report
+3,2013,14.3,14.48,15.7,15.7,12.83,17.75,8.95,15th and 16th grade,Dhanalakshmi,Auditor Report
+4,2014,13.3,13.94,15.1,15.1,11.84,23.666666666666668,8.63,13th and 14th grade,Dhanalakshmi,Auditor Report
+5,2015,15.2,15.51,16.3,17.3,11.96,25.333333333333332,8.17,15th and 16th grade,Dhanalakshmi,Auditor Report
+6,2016,,,,,,,,,Dhanalakshmi,Auditor Report
+7,2017,,,,,,,,,Dhanalakshmi,Auditor Report
+8,2018,24.5,22.33,23.0,28.3,14.87,25.333333333333332,8.47,24th and 25th grade,Dhanalakshmi,Auditor Report
+9,2019,22.1,19.96,21.7,25.6,15.51,38.0,8.19,21st and 22nd grade,Dhanalakshmi,Auditor Report
+10,2020,20.8,18.52,20.8,23.7,14.81,25.0,7.94,20th and 21st grade,Dhanalakshmi,Auditor Report
+11,2021,21.4,19.42,21.3,24.9,15.45,25.0,8.16,24th and 25th grade,Dhanalakshmi,Auditor Report
+0,2010,10.0,10.23,12.7,11.5,13.27,6.111111111111111,9.23,9th and 10th grade,Lakshmi Vilas,Director Report
+1,2011,9.4,10.34,12.8,11.5,12.82,7.0,8.43,12th and 13th grade,Lakshmi Vilas,Director Report
+2,2012,,,,,,,,,Lakshmi Vilas,Director Report
+3,2013,9.3,9.85,12.5,18.0,12.29,10.833333333333334,8.45,9th and 10th grade,Lakshmi Vilas,Director Report
+4,2014,10.0,10.5,13.4,11.9,12.35,10.833333333333334,8.25,10th and 11th grade,Lakshmi Vilas,Director Report
+5,2015,11.7,10.94,14.2,13.1,13.4,10.833333333333334,8.01,10th and 11th grade,Lakshmi Vilas,Director Report
+6,2016,11.6,10.66,13.9,12.7,12.94,10.833333333333334,7.92,10th and 11th grade,Lakshmi Vilas,Director Report
+7,2017,12.6,11.43,15.0,14.3,13.34,11.0,7.68,10th and 11th grade,Lakshmi Vilas,Director Report
+8,2018,12.2,10.71,14.4,13.4,13.05,10.833333333333334,7.44,10th and 11th grade,Lakshmi Vilas,Director Report
+9,2019,12.5,10.94,14.8,14.0,13.23,13.0,7.41,12th and 13th grade,Lakshmi Vilas,Director Report
+10,2020,13.1,11.39,15.3,14.6,13.05,10.833333333333334,7.36,10th and 11th grade,Lakshmi Vilas,Director Report
+0,2010,13.9,15.32,14.7,16.1,10.75,21.333333333333332,8.65,10th and 11th grade,Lakshmi Vilas,Auditor Report
+1,2011,15.3,16.69,15.1,17.8,10.57,64.0,8.94,10th and 11th grade,Lakshmi Vilas,Auditor Report
+2,2012,,,,,,,,,Lakshmi Vilas,Auditor Report
+3,2013,13.5,14.54,15.9,16.2,12.89,23.0,8.78,15th and 16th grade,Lakshmi Vilas,Auditor Report
+4,2014,13.0,13.5,14.7,14.5,11.49,22.333333333333332,8.37,14th and 15th grade,Lakshmi Vilas,Auditor Report
+5,2015,17.1,17.64,17.7,20.0,12.2,14.8,8.58,17th and 18th grade,Lakshmi Vilas,Auditor Report
+6,2016,18.9,17.71,19.8,21.9,13.65,14.8,7.98,18th and 19th grade,Lakshmi Vilas,Auditor Report
+7,2017,18.9,17.67,19.7,22.0,13.82,18.25,7.99,18th and 19th grade,Lakshmi Vilas,Auditor Report
+8,2018,18.5,17.22,19.5,21.5,13.82,24.333333333333332,7.91,18th and 19th grade,Lakshmi Vilas,Auditor Report
+9,2019,19.7,17.35,19.6,22.1,14.52,36.0,7.82,19th and 20th grade,Lakshmi Vilas,Auditor Report
+10,2020,17.9,16.38,17.5,20.2,13.07,33.0,7.7,17th and 18th grade,Lakshmi Vilas,Auditor Report
